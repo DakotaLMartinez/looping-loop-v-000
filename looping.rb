@@ -3,7 +3,7 @@ def looping
   loop do 
     counter += 1 
     puts counter
-    break if counter == 4
+    return if counter == 4
   end
 end
 
