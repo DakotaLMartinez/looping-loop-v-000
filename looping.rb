@@ -2,7 +2,7 @@ def looping
   counter = 0
   loop do 
     counter += 1 
-    puts counter
+    puts "Wingardium Leviosa"
     
   end
 end
